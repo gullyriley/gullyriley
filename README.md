@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Gulliver 👋
 
-<!--
-**gullyriley/gullyriley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Early-career IT & cybersecurity enthusiast based in Australia.  
+Focused on Linux systems, server hardening, and practical security projects.
 
-Here are some ideas to get you started:
+## Currently working on
+- Hardening Linux servers (SSH, auditing, access control)
+- Raspberry Pi & homelab security projects
+- Arch Linux + Hyprland configuration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+Linux (Arch, Debian), Bash, Python, Git, systemd, SSH, Lynis
+
+## Contact
+GitHub: https://github.com/gullyriley
+
+## Fun
+- I break things on purpose — then secure them
+- Optimization is key
