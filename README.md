@@ -12,7 +12,7 @@ Focused on Linux systems, server hardening, and practical security projects.
 Linux (Arch, Debian), Bash, Python, Git, systemd, SSH, Lynis
 
 ## Contact
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/gulliver-riley-b80ab03ab/)
+[LinkedIn](https://www.linkedin.com/in/gulliver-riley-b80ab03ab/)
 
 ## Fun
 - I break things on purpose — then secure them
